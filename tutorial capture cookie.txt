@@ -1,0 +1,11 @@
+͏͏͏͏͏͏͏͏͏͏͏Download kiwi browser di playstore
+copy link ini
+https://chrome.google.com/webstore/detail/cdn-headers-cookies/obldlamadkihjlkdjblncejeblbogmnb/related
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏paste di kiwi browser
+lihat video di tutorial (watch video tutorial)
+copy isi user_agent (cukup sekali)
+paste kan isi user_agent di konfig.json
+copy isi cookie (jika cookie udah mati segera capture ulang supaya iklan cloudflare gak di skip)
+paste kan isi cookie di cookie.txt
+cokie dan user_agent harus sinkron dengan ip jaringan supaya work
+jika cookie mati maka iklan akan di skip lalu ke mode join sebanyak 3 kali join kemudian kembali ke msgbot/visit

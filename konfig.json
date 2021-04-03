@@ -1,0 +1,71 @@
+{
+    "user_agent":"Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36",
+    "wallet": {
+        "ltc": "MAjkcJuJMG78TgNjEKWL5VHZDz2hJMdqSA",
+        "doge": "D6hoeUv4EparFgzAHBbGHWsgxwg88YEdyg",
+        "zec": "t3RwyrvAdEGj3vxaQaQKe5poqzHhsYdtCrY",
+        "bch": "33ViuhtEAiC7NPMaqcMdGML9eZfnNEW9c9",
+        "btc": "38Wz8eP3EHgaBeJoyGHSmxL7PSKS2E1i6i"
+    },
+    "referral": {
+        "mode": "on",
+        "ref_5bot": "off",
+        "ref_ltc": "6ZfD",
+        "ref_doge": "ZMPb",
+        "ref_zec": "kl0B",
+        "ref_bch": "XSss",
+        "ref_btc": "X7jF"
+    },
+    "akun_utama": {
+        "mode_nuyul": "off",
+        "number": "+62xxxxxxx",
+        "change_api": "off",
+        "leave": "off",
+        "msg_bot":"off",
+        "join":"off",
+        "visit":"on"
+    },
+    "setting": {
+        "allow_NSFW": "on"
+    },
+    "fitur": {
+        "api_id_api_hash":{
+            "api_id": 3027295,
+            "api_hash":"25fd6dbee06cb8d58b4b5dfd602856f0"
+        },
+        "leave": {
+            "mode":"off",
+            "delete_history_bot":"off",
+            "max_days_channel_leave":7
+        },
+        "message_bots":{
+            "mode":"on",
+            "banyak_msg_bot":37,
+            "waktu_jeda_forward_msgbot":5
+        },
+        "join_channel/group":{
+            "mode":"off",
+            "banyak_join":37,
+            "waktu_jeda_rejoin":10,
+            "banyak_join_sebelum_waktu_jeda":10
+        },
+        "visit_sites":{
+            "mode":"on",
+            "banyak_visit":300
+        },
+        "auto_wd":"off",
+        "jeda_respon_clickbot":3,
+        "proxy": {
+            "proxy": "on",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"    
+        },
+        "grup_tuyul": {
+            "mode": "off",
+            "chat_balance": "off",
+            "group": "@gasssay",
+            "chat": ["say..","nuyul yukk","njirr","tariik"," gass","very jos","work","😊😊","good","boss"]
+        }
+    }
+}
